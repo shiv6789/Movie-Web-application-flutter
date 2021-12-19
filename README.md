@@ -13,3 +13,6 @@ this project consists of various Screens:-
 
 # Search Screen
 ![alt text](https://github.com/shiv6789/Movie-Web-application-flutter/blob/main/images/Search.png)
+
+Run the main.dart in web device options.
+
